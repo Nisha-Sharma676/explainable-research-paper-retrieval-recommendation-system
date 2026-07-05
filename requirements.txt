@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+transformers
+keybert
+spacy
+numpy
+pandas
+scikit-learn
+textstat
